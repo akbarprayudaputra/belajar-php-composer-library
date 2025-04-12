@@ -1,0 +1,18 @@
+{
+    "name": "asus/belajar-php-composer-library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AkbarPrayuda\\Belajar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akbarprayuda21",
+            "email": "akbarprayuda210806@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
